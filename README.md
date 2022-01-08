@@ -1,5 +1,5 @@
 # -MLops_project
-ML활용한 기술적분석 가격예측이 있는  주식 커뮤니티 사이트 배포
+ML활용한 주식 기술적분석 가격예측이 있는  주식 커뮤니티 사이트 배포
 ML과 백엔드의 기술 결합과 배포를 중점으로 둠
 ![image](https://user-images.githubusercontent.com/90584136/148628834-57e29dc4-036f-464c-9999-e51b1d35dfe7.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628837-fe8b5145-fa1f-47eb-93fd-aa9ddd8d3559.png)
