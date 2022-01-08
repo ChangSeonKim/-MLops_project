@@ -1,5 +1,6 @@
 # -MLops_project
 ML활용한 기술적분석 가격예측이 있는  주식 커뮤니티 사이트 배포
+ML과 백엔드의 기술 결합과 배포를 중점으로 둠
 ![image](https://user-images.githubusercontent.com/90584136/148628834-57e29dc4-036f-464c-9999-e51b1d35dfe7.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628837-fe8b5145-fa1f-47eb-93fd-aa9ddd8d3559.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628847-f8740749-986d-4072-8b9d-6365723a44ad.png)
@@ -19,3 +20,10 @@ ML활용한 기술적분석 가격예측이 있는  주식 커뮤니티 사이�
 ![image](https://user-images.githubusercontent.com/90584136/148628960-bb7ed1b1-9413-45a3-b9fc-74041d8f4aae.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628964-0f2d5b7d-e1f0-4993-8d84-d8f225f70157.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628970-9b56783e-98df-4765-b44b-bb23fc13f495.png)
+![image](https://user-images.githubusercontent.com/90584136/148629011-4b30111b-4ded-4a43-8bd5-a1f3b2582674.png)
+![image](https://user-images.githubusercontent.com/90584136/148629018-b5b6dcc6-2cf8-478a-8ed6-37b757901873.png)
+![image](https://user-images.githubusercontent.com/90584136/148629023-0d6f6cc1-214a-41ec-8e4e-8974e14fb586.png)
+![image](https://user-images.githubusercontent.com/90584136/148629031-416ee68e-8c10-4605-bb8c-28d1f5fcf8bf.png)
+![image](https://user-images.githubusercontent.com/90584136/148629056-0b0a4bd3-cced-4373-b103-85b016a5f30b.png)
+![image](https://user-images.githubusercontent.com/90584136/148629063-f434bb95-934a-4295-baab-6d4191910a65.png)
+![image](https://user-images.githubusercontent.com/90584136/148629068-50c12b95-bbb3-43bd-b85e-138eed5325a6.png)
